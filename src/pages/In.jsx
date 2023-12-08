@@ -32,6 +32,49 @@ export default function In(){
             </div>
         </div>
     </div>
+
+    <section>
+            <div className="container card-container">
+                <div className="row">
+                <div className="col-md-3">
+                    <div className="card w-18 card1 ">
+                        <div className="card-body">
+                        <h1 className="card-title"><i class="fa-solid fa-user-doctor"></i></h1>
+                        <h4 className="pt-4 pb-3">Modern Hospital</h4>
+                        <p>Provide advanced & scientific, curative, preventive healthcare.</p>
+                        </div>
+                    </div>
+                </div>
+                <div className="col-md-3">
+                    <div className="card w-18 card2">
+                        <div className="card-body">
+                        <h1 className="card-title"><i class="fa-solid fa-user-doctor"></i></h1>
+                        <h4 className="pt-4 pb-3">Expert Doctors</h4>
+                        <p>Give you the best treatment to cure your diesase</p>
+                        </div>
+                    </div>
+                </div>
+                <div className="col-md-3">
+                    <div className="card w-18 card1">
+                        <div className="card-body">
+                        <h1 className="card-title"><i class="fa-solid fa-user-doctor"></i></h1>
+                        <h4 className="pt-4 pb-3">Cardiac Ambulance</h4>
+                        <p>Patients suffering from cardiac diseases.</p>
+                        </div>
+                    </div>
+                </div>
+                <div className="col-md-3">
+                    <div className="card w-18 card2">
+                        <div className="card-body">
+                        <h1 className="card-title"><i class="fa-solid fa-user-doctor"></i></h1>
+                        <h4 className="pt-4 pb-3"> Emergency</h4>
+                        <p>We work 24*7 to provide quality care at every moment</p>
+                        </div>
+                    </div>
+                </div>
+             </div>             
+             </div>
+   </section>
     </>
   )
 }
